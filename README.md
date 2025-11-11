@@ -60,7 +60,7 @@ Investment Impact: The correlation between high expenditures and educational suc
 Teacher Retention: Offering competitive salaries, particularly in districts like Boston, is critical to attracting skilled teachers, who are essential to student achievement.
 Sustained Focus: Maintaining and increasing investment in education could further enhance Massachusetts's standing as a national leader in academic excellence.
 
-Final Dashboard:
+Final Dashboard included all charts with details.
 
 https://public.tableau.com/app/profile/stargily.bobby/viz/Massachusettsschoolgrade/Dashboard1
 
