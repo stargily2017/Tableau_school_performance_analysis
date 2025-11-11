@@ -39,15 +39,33 @@ This data is REAL data taken from the Massachusetts Department of Education Webs
 
 A Hexbin plot shows that Districts with smaller average class sizes tend to have higher overall performance scores, particularly in reading and arithmetic.
 
+<img width="744" height="239" alt="image" src="https://github.com/user-attachments/assets/54d2016a-b488-458e-ae25-6e1a90470ace" />
+
+
 The analysis revealed that most schools in the dataset are public institutions. High school graduation in Massachusetts is around 83.33%, which is higher than in other US states.
+
+<img width="744" height="355" alt="image" src="https://github.com/user-attachments/assets/ca6bf9ff-073a-41b5-a291-1bf1dfa3234b" />
+
 
 In Math, the passing rate is 34.85%, whereas in English it is notably higher at 52.55%. The higher English passing rate suggests that students may be receiving more effective support or resources in English than in Math.
 
+<img width="744" height="225" alt="image" src="https://github.com/user-attachments/assets/1494a698-e61b-411e-bcb8-7d27fbf08e22" />
+
+
 According to 2017 data, the average male count was 52% and the female count was 48%. I used a jitter plot to show the number of graduates per school, and a scatterplot to show the male and female counts per school. The male count is higher than the female count.
+
+<img width="744" height="227" alt="image" src="https://github.com/user-attachments/assets/703516ee-2842-4c0a-ae51-fddef8469fd3" />
+
 
 The average salary for school teachers across districts is $74,000. However, this figure varies from district to district. Notably, Boston offers the highest salaries, which may help attract and retain qualified educators, potentially leading to better student outcomes. On average, each district spends around $0.15 billion annually.
 
+<img width="744" height="383" alt="image" src="https://github.com/user-attachments/assets/699d93f4-23c6-4b6a-a201-f10e1a3be583" />
+
+
 Analysis based on ethnicity shows that Asian and White students typically have the highest graduation rates. In contrast, Hispanic and Black students have lower percentages, often linked to variation in resources across districts and higher representation in high-needs populations.
+
+<img width="744" height="138" alt="image" src="https://github.com/user-attachments/assets/51983d95-cbe3-4636-82cf-410d7a679fb7" />
+
 
 ## Result and Personal Reflections: 
 Working on this project was eye-opening. I realized the importance of early academic performance and how it sets the stage for future success. The challenge of addressing ethnic and socioeconomic disparities in education is significant, but it's also an opportunity for positive change. By doing so, we can create a more equitable educational landscape for all students.
